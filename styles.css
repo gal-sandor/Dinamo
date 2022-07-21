@@ -1,0 +1,74 @@
+body 
+{
+  background-color: rgb(111, 111, 111);
+}
+#dinamokep 
+{
+  float: left;
+  height: 200px;
+  margin-right: 20px;
+}
+h1 
+{
+  margin: 40px 0px 30px 180px;
+  text-align: left;
+}
+h1, h2 
+{
+  font-variant: small-caps;
+  font-style: italic;
+}
+p 
+{
+  margin: 5px 100px 5px 5px;
+  text-align: justify;
+  text-indent: 30px;
+  height: 110%;
+}
+#tartalom 
+{
+  background-image: url('dinamo.jpg');
+  background-size: 125px 100px;
+  background-repeat: repeat-y;
+  background-position: right top;
+  background-color: rgba(222, 222, 222);
+  margin-bottom: 20px;
+  padding: 40px;
+  margin: 10px;
+  width: 870px;
+  text-align: center;
+  margin-left: 200px;
+  margin-right: 200;
+}
+li 
+{
+  font-weight: bold;
+  text-align: left;
+}
+a 
+{
+  text-decoration: none;
+  color: black;
+}
+a:hover
+{
+  color: red;
+}
+.jobbra
+{
+  text-align: right;
+  margin-right: 100px;
+
+}
+.balra
+{
+  text-align: left;
+}
+.eletrajz
+{
+  font-size: 80%;
+  background-color: gray;
+  color: white;
+  margin: 10px;
+  width: 720px;
+}
